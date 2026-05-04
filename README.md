@@ -21,7 +21,7 @@ The focus is on time-series correctness (temporal splits), model comparison, thr
 5) Threshold optimization (probability-to-decision)
 6) Rolling backtest (2023–2024)
 
-## Key results (to keep in your README)
+## Key results 
 - Cross-validation metrics table (Accuracy / Precision / Recall / F1 for classifiers; MAE/MSE for regressors)
 - Rolling backtest summary (2023–2024)
 - Clear comparison vs a baseline strategy
